@@ -1,6 +1,6 @@
 # Visualizers
 
-Path Finding Visualizer
+# Path Finding Visualizer
   - Pygame UI contains 50 x 50 grid
     - 1st left-click places the starting Node
     - 2nd left-click places the goal Node
